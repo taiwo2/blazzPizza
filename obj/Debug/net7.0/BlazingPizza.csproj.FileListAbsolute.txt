@@ -1,0 +1,8 @@
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.csproj.AssemblyReference.cache
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.AssemblyInfoInputs.cache
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.AssemblyInfo.cs
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.csproj.CoreCompileInputs.cache
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.RazorAssemblyInfo.cache
+/workspaces/blazzPizza/obj/Debug/net7.0/BlazingPizza.RazorAssemblyInfo.cs
