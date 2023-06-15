@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = blazingPizza
 build_property.RootNamespace = blazingPizza
-build_property.ProjectDir = /home/taiwo/dot/blazzPizza/
+build_property.ProjectDir = /workspaces/blazzPizza/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/taiwo/dot/blazzPizza
+build_property.MSBuildProjectDirectory = /workspaces/blazzPizza
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/taiwo/dot/blazzPizza/App.razor]
+[/workspaces/blazzPizza/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/taiwo/dot/blazzPizza/Pages/Counter.razor]
+[/workspaces/blazzPizza/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/taiwo/dot/blazzPizza/Pages/FetchData.razor]
+[/workspaces/blazzPizza/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/taiwo/dot/blazzPizza/Pages/Index.razor]
+[/workspaces/blazzPizza/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/taiwo/dot/blazzPizza/Shared/SurveyPrompt.razor]
+[/workspaces/blazzPizza/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/taiwo/dot/blazzPizza/_Imports.razor]
+[/workspaces/blazzPizza/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/taiwo/dot/blazzPizza/Shared/MainLayout.razor]
+[/workspaces/blazzPizza/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ffd9kqpv1s
 
-[/home/taiwo/dot/blazzPizza/Shared/NavMenu.razor]
+[/workspaces/blazzPizza/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-z57c8p6c36
 
-[/home/taiwo/dot/blazzPizza/Pages/Error.cshtml]
+[/workspaces/blazzPizza/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/taiwo/dot/blazzPizza/Pages/_Host.cshtml]
+[/workspaces/blazzPizza/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

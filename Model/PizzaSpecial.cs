@@ -1,4 +1,4 @@
-﻿namespace BlazingPizza
+﻿namespace blazingPizza
 {
     /// <summary>
     /// Represents a pre-configured template for a pizza a user can order
