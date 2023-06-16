@@ -13,43 +13,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1526966657,
-        "Kind": "Components.Component",
-        "Name": "blazingPizza.Pages.Index",
-        "AssemblyName": "blazingPizza",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazingPizza.Pages.Index",
-          "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "blazingPizza.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1735347457,
-        "Kind": "Components.Component",
-        "Name": "blazingPizza.Pages.Index",
-        "AssemblyName": "blazingPizza",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazingPizza.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "blazingPizza.Pages.Index",
-          "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "blazingPizza.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": -140061700,
         "Kind": "Components.Component",
         "Name": "blazingPizza.Pages.FetchData",
@@ -118,6 +81,43 @@
         "Metadata": {
           "Common.TypeName": "blazingPizza.Pages.Counter",
           "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "blazingPizza.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1526966657,
+        "Kind": "Components.Component",
+        "Name": "blazingPizza.Pages.Index",
+        "AssemblyName": "blazingPizza",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazingPizza.Pages.Index",
+          "Common.TypeNameIdentifier": "Index",
+          "Common.TypeNamespace": "blazingPizza.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1735347457,
+        "Kind": "Components.Component",
+        "Name": "blazingPizza.Pages.Index",
+        "AssemblyName": "blazingPizza",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazingPizza.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "blazingPizza.Pages.Index",
+          "Common.TypeNameIdentifier": "Index",
           "Common.TypeNamespace": "blazingPizza.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
