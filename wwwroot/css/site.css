@@ -69,12 +69,14 @@ a, .btn-link {
 
     @import url('font/quicksand.css');
 
-body, html {
-    height: 100%;
-}
+/* body, {
+    
+} */
 
-body {
-    padding-top: 5rem;
+body,html  {
+    /* padding-top: 5rem; */
+    
+    height: 100%;
     flex-direction: column;
     font-family: 'quicksand';
     overflow-y: hidden;
