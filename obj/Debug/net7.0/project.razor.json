@@ -363,7 +363,7 @@
         }
       },
       {
-        "HashCode": -1048869977,
+        "HashCode": 1332368914,
         "Kind": "Components.Component",
         "Name": "blazingPizza.Shared.ConfigurePizzaDialog",
         "AssemblyName": "blazingPizza",
@@ -382,6 +382,26 @@
               "Common.PropertyName": "Pizza",
               "Common.GloballyQualifiedTypeName": "global::blazingPizza.Pizza"
             }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnCancel",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnCancel",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnConfirm",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnConfirm",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
           }
         ],
         "Metadata": {
@@ -392,7 +412,7 @@
         }
       },
       {
-        "HashCode": 795830381,
+        "HashCode": -1317555084,
         "Kind": "Components.Component",
         "Name": "blazingPizza.Shared.ConfigurePizzaDialog",
         "AssemblyName": "blazingPizza",
@@ -410,6 +430,26 @@
             "Metadata": {
               "Common.PropertyName": "Pizza",
               "Common.GloballyQualifiedTypeName": "global::blazingPizza.Pizza"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnCancel",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnCancel",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnConfirm",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "OnConfirm",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
             }
           }
         ],
