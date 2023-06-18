@@ -1050,25 +1050,25 @@
     ]
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/home/taiwo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/blazzPizza/blazingPizza.csproj",
+      "projectUniqueName": "/home/taiwo/dot/blazzPizza/blazingPizza.csproj",
       "projectName": "blazingPizza",
-      "projectPath": "/workspaces/blazzPizza/blazingPizza.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/blazzPizza/obj/",
+      "projectPath": "/home/taiwo/dot/blazzPizza/blazingPizza.csproj",
+      "packagesPath": "/home/taiwo/.nuget/packages/",
+      "outputPath": "/home/taiwo/dot/blazzPizza/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/home/taiwo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/dotnet/7.0.302/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "/usr/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1119,7 +1119,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.302/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }

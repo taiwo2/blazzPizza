@@ -1,111 +1,111 @@
 {
   "Files": [
     {
-      "Id": "/workspaces/blazzPizza/obj/Debug/net7.0/scopedcss/projectbundle/blazingPizza.bundle.scp.css",
+      "Id": "/home/taiwo/dot/blazzPizza/obj/Debug/net7.0/scopedcss/projectbundle/blazingPizza.bundle.scp.css",
       "PackagePath": "staticwebassets/blazingPizza.bundle.scp.css"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-300.woff",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-300.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-300.woff"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-300.woff2",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-300.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-300.woff2"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-500.woff",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-500.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-500.woff"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-500.woff2",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-500.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-500.woff2"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-700.woff",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-700.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-700.woff"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-700.woff2",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-700.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-700.woff2"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-regular.woff",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-regular.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-regular.woff"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand-v8-latin-regular.woff2",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand-v8-latin-regular.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-regular.woff2"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/font/quicksand.css",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/font/quicksand.css",
       "PackagePath": "staticwebassets/css/font/quicksand.css"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/css/site.css",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/favicon.png",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/bike.svg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/bike.svg",
       "PackagePath": "staticwebassets/img/bike.svg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/icon-512.png",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/icon-512.png",
       "PackagePath": "staticwebassets/img/icon-512.png"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/logo.svg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/logo.svg",
       "PackagePath": "staticwebassets/img/logo.svg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizza-slice.svg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizza-slice.svg",
       "PackagePath": "staticwebassets/img/pizza-slice.svg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/bacon.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/bacon.jpg",
       "PackagePath": "staticwebassets/img/pizzas/bacon.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/brit.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/brit.jpg",
       "PackagePath": "staticwebassets/img/pizzas/brit.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/cheese.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/cheese.jpg",
       "PackagePath": "staticwebassets/img/pizzas/cheese.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/margherita.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/margherita.jpg",
       "PackagePath": "staticwebassets/img/pizzas/margherita.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/meaty.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/meaty.jpg",
       "PackagePath": "staticwebassets/img/pizzas/meaty.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/mushroom.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/mushroom.jpg",
       "PackagePath": "staticwebassets/img/pizzas/mushroom.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/pepperoni.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/pepperoni.jpg",
       "PackagePath": "staticwebassets/img/pizzas/pepperoni.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/pizzas/salad.jpg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/pizzas/salad.jpg",
       "PackagePath": "staticwebassets/img/pizzas/salad.jpg"
     },
     {
-      "Id": "/workspaces/blazzPizza/wwwroot/img/user.svg",
+      "Id": "/home/taiwo/dot/blazzPizza/wwwroot/img/user.svg",
       "PackagePath": "staticwebassets/img/user.svg"
     },
     {
