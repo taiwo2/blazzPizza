@@ -3,50 +3,23 @@
 @inject NavigationManager NavigationManager
 @using blazingPizza.Services
 @inject OrderState OrderState
-
-<div class="top-bar">
-    <a class="logo" href="">
-        <img src="img/logo.svg" />
-    </a>
-
-    <a href="" class="nav-tab active" >
-        <img src="img/pizza-slice.svg" />
-        <div>Get Pizza</div>
-    </a>
-
-    <a href="myorders" class="nav-tab" >
-        <img src="img/bike.svg" />
-        <div>My orders</div>
-    </a>
-
-</div>
+@layout MainLayout
 
 <div class="main">
     <div class="checkout-cols">
         <div class="checkout-order-details">
             <h4>Review order</h4>
-            @foreach (var pizza in Order.Pizzas)
-            {
-                <p>
-                    <strong>
-                        @(pizza.Size)"
-                        @pizza.Special.Name
-                        (£@pizza.GetFormattedTotalPrice())
-                    </strong>
-                </p>
-            }
+            <OrderReview Order="Order" />
+        </div>
 
-            <p>
-                <strong>
-                    Total price:
-                    £@Order.GetFormattedTotalPrice()
-                </strong>
-            </p>
+        <div class="checkout-delivery-address">
+            <h4>Deliver to...</h4>
+            <AddressEditor Address="Order.DeliveryAddress" />
         </div>
     </div>
 
     <button class="checkout-button btn btn-warning" @onclick="PlaceOrder" disabled=@isSubmitting>
-          Place order
+        Place order
     </button>
 </div>
 

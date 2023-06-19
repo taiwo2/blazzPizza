@@ -44,8 +44,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJEZXRhaWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/taiwo/dot/blazzPizza/Shared/AddressEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FkZHJlc3NFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/taiwo/dot/blazzPizza/Shared/ConfigurePizzaDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/taiwo/dot/blazzPizza/Shared/OrderReview.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL09yZGVyUmV2aWV3LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/taiwo/dot/blazzPizza/Shared/SurveyPrompt.razor]
